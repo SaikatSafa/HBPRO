@@ -1,8 +1,9 @@
 :root {
 	--first-color: #dbe4e8;
 	--second-color: #f5f5f5;
-	/* --third-color: #990099; */
-	--third-color: #003671;
+	--third-color: #990099;
+	--third-color: #8AC4D0;
+	/* --third-color: #003671; */
 	--fourth-color: black;
 	--font: 'Inconsolata';
 	--shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
