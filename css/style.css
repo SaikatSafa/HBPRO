@@ -104,6 +104,14 @@ a:hover{
 
 .about-me-text {padding: 1em;}
 
+.about-me-text a h2 {
+	color: black;
+}
+
+.about-me-text a h2:hover {
+	color: var(--third-color);
+}
+
 
 /*social media*/
 .social-media li {
